@@ -13,3 +13,9 @@ li {
   background: mediumpurple;
   color: whitesmoke;
 }
+.page-header__container {
+  background: lightcyan;
+}
+.page-header {
+  background: cyan;
+}
