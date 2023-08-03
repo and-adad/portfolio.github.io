@@ -9,6 +9,14 @@ h1 {
 a {
 
 }
+.list {
+  background-color: darksalmon;
+  margin-top: 8px;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+.listitem {
+}
 #valentina {
   display: flex;
   height: 40vh;
@@ -42,6 +50,7 @@ strong {
 input {
   margin-top: 5px;
   margin-bottom: 5px;
+  margin-left: 40px;
 }
 .messenger:hover {
   border: 4px solid #323232;
