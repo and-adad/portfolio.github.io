@@ -11,7 +11,7 @@ a {
 }
 #valentina {
   display: flex;
-  height: 100vh;
+  height: 40vh;
   justify-content: center;
 }
 body {
@@ -24,7 +24,6 @@ nav {
   border: 1px solid blueviolet;
   border-radius: 90px;
   box-shadow: 6px 6px 12px black;
-  margin-right: 230px;
 }
 .messenger {
   opacity: 0.9;
