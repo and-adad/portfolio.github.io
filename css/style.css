@@ -9,6 +9,11 @@ h1 {
 a {
 
 }
+#valentina {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+}
 body {
   background-image: url("../img/4.jpg");
 }
@@ -20,7 +25,6 @@ nav {
   border-radius: 90px;
   box-shadow: 6px 6px 12px black;
   margin-right: 230px;
-  width: 50%;
 }
 .messenger {
   opacity: 0.9;
