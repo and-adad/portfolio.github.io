@@ -15,6 +15,8 @@ body {
   border: 1px solid blueviolet;
   border-radius: 90px;
   box-shadow: 6px 6px 12px black;
+  margin-right: 230px;
+  width: 50%;
 }
 .messenger {
   opacity: 0.9;
