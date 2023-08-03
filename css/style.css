@@ -12,6 +12,7 @@ body {
 }
 .information__image {
   border: 1px solid blueviolet;
+  border-radius: 90px;
 }
 .telegram {
   background: deepskyblue;
