@@ -1,3 +1,15 @@
 li {
   background: pink;
 }
+#telegram {
+  background: deepskyblue;
+  color: white;
+}
+#whatsapp {
+  background: limegreen;
+  color: ghostwhite;
+}
+#viber {
+  background: mediumpurple;
+  color: whitesmoke;
+}
