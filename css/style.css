@@ -7,13 +7,15 @@ h1 {
   text-align: center;
 }
 a {
-
+  font-weight: 800;
+  font-size: 18px;
 }
 .list {
   background-color: darksalmon;
   margin-top: 8px;
   margin-right: 40px;
   margin-left: 40px;
+  border-radius: 30px;
 }
 .listitem {
 }
@@ -29,9 +31,16 @@ nav {
   text-align: center;
 }
 .information__image {
+  transform: scale(0.7);
+  transition: 2s all;
+
   border: 1px solid blueviolet;
   border-radius: 90px;
   box-shadow: 6px 6px 12px black;
+}
+.information__image:hover {
+  transform: rotate(6deg);
+  border: 3px solid crimson;
 }
 .messenger {
   opacity: 0.9;
