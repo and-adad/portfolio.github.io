@@ -1,18 +1,27 @@
 li {
   background: pink;
 }
+h1 {
+  padding-top: 10px;
+}
 a {
 
 }
-#telegram {
+.telegram {
   background: deepskyblue;
   color: white;
 }
-#whatsapp {
+.messenger:hover {
+  border: 4px solid #323232;
+}
+#favourite:hover {
+  color: black;
+}
+.whatsapp {
   background: limegreen;
   color: ghostwhite;
 }
-#viber {
+.viber {
   background: mediumpurple;
   color: whitesmoke;
 }
