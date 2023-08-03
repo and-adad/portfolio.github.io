@@ -1,6 +1,9 @@
 li {
   background: pink;
 }
+a {
+
+}
 #telegram {
   background: deepskyblue;
   color: white;
@@ -18,4 +21,14 @@ li {
 }
 .page-header {
   background: cyan;
+}
+.features {
+  height: 20px;
+  border: 1px solid red;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+.footer {
+  height: 50px;
+  border: 1px solid chocolate;
 }
